@@ -2,7 +2,7 @@
 ENCENDER UN LED CON NODE-RED
 ## Introducción
 
-Este repositorio muestra como podemos programar una ESP32 y que se conecte mediente wi-fi a un servidor de **Node-RED**y encender un **LED**
+Este repositorio muestra como podemos programar una ESP32 y que se conecte mediante wi-fi a un servidor de **Node-RED**y encender un **LED**
 
 
 
